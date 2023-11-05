@@ -1,0 +1,6 @@
+.polygonbtn{
+    width: 296px;
+    height: 50px;
+    background-color: #FF3811;
+    clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+}
